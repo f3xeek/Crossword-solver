@@ -1,0 +1,2 @@
+letters treshhold = 150
+words treshhold = 150 

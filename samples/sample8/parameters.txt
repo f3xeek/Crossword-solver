@@ -1,0 +1,2 @@
+letters treshhold = 150, SENS=4
+words treshhold = 140 
